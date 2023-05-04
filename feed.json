@@ -9,19 +9,5 @@
         "name": "malu"
     },
     "items": [
-        {
-            "id": "https://maluarreguin.github.io/mlisportfolio/accesibility-statement.html",
-            "url": "https://maluarreguin.github.io/mlisportfolio/accesibility-statement.html",
-            "title": "Accessibility Statement",
-            "summary": ":) ",
-            "content_html": "<p>:) </p>",
-            "author": {
-                "name": "malu"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-03T18:43:44-07:00",
-            "date_modified": "2023-05-03T18:44:53-07:00"
-        }
     ]
 }
