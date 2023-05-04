@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MLIS Portfolio</title>
+    <link href="https://maluarreguin.github.io/mlisportfolio/feed.xml" rel="self" />
+    <link href="https://maluarreguin.github.io/mlisportfolio" />
+    <updated>2023-05-03T18:44:53-07:00</updated>
+    <author>
+        <name>malu</name>
+    </author>
+    <id>https://maluarreguin.github.io/mlisportfolio</id>
+
+    <entry>
+        <title>Accessibility Statement</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/mlisportfolio/accesibility-statement.html"/>
+        <id>https://maluarreguin.github.io/mlisportfolio/accesibility-statement.html</id>
+
+        <updated>2023-05-03T18:44:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                    :) 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>:) </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
